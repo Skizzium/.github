@@ -14,6 +14,8 @@
           justify-content: center;
           align-items: center;
           color: white;
+        
+          box-shadow: inset -10px -10px 10px 20px white;
         }
         
         @keyframes gradient {
